@@ -1,0 +1,2141 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1556; Version 1909; 64bit' Language: 'it' Physical Memory: 12149 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/eligr/Documents/Hand_project_unity/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52075
+Successfully changed project path to: C:/Users/eligr/Documents/Hand_project_unity/New Unity Project
+C:/Users/eligr/Documents/Hand_project_unity/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/eligr/Documents/Hand_project_unity/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007045 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.759 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1481 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.8 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1924.
+Total: 2.103900 ms (FindLiveObjects: 0.196200 ms CreateObjectMapping: 0.078500 ms MarkObjects: 1.730500 ms  DeleteObjects: 0.097500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Interaction Objects.unity
+  artifactKey: Guid(017ace9491c55584a93fb1551e5b4db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Interaction Objects.unity using Guid(017ace9491c55584a93fb1551e5b4db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2345276303290da64563c8723a3e6c') in 0.015497 seconds
+  Import took 0.018758 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001266 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.9 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1927.
+Total: 3.130500 ms (FindLiveObjects: 0.285900 ms CreateObjectMapping: 0.104800 ms MarkObjects: 2.651000 ms  DeleteObjects: 0.086400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.9 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1930.
+Total: 2.546800 ms (FindLiveObjects: 0.207100 ms CreateObjectMapping: 0.095000 ms MarkObjects: 2.147300 ms  DeleteObjects: 0.096200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1933.
+Total: 3.112000 ms (FindLiveObjects: 0.354300 ms CreateObjectMapping: 0.063800 ms MarkObjects: 2.611700 ms  DeleteObjects: 0.079700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.555 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1936.
+Total: 6.201500 ms (FindLiveObjects: 0.880100 ms CreateObjectMapping: 0.885400 ms MarkObjects: 4.356400 ms  DeleteObjects: 0.077600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1939.
+Total: 3.221000 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.281100 ms MarkObjects: 2.560000 ms  DeleteObjects: 0.092800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001147 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 2.816300 ms (FindLiveObjects: 0.369100 ms CreateObjectMapping: 0.118400 ms MarkObjects: 2.234000 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1803.127239 seconds.
+  path: Assets/Resources/InDexCube.obj
+  artifactKey: Guid(40a29243cd9ba2d45aba5688b941b676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/InDexCube.obj using Guid(40a29243cd9ba2d45aba5688b941b676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32daf75419bd85230880ea22c14a764') in 0.201904 seconds
+  Import took 0.206262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Resources/InDexCubeTexture.png
+  artifactKey: Guid(0645a74a0a72a2245b04eb822ed15bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/InDexCubeTexture.png using Guid(0645a74a0a72a2245b04eb822ed15bce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b96c29afa05d8bae5f8109c0abcdf7') in 0.043726 seconds
+  Import took 0.048458 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1989.
+Total: 2.261700 ms (FindLiveObjects: 0.226900 ms CreateObjectMapping: 0.106300 ms MarkObjects: 1.844600 ms  DeleteObjects: 0.081600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 735.526473 seconds.
+  path: Assets/Resources/New Prefab.prefab
+  artifactKey: Guid(172189b26a6fb2c4e99e8f2f7911e4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/New Prefab.prefab using Guid(172189b26a6fb2c4e99e8f2f7911e4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb994a8ec7c03114489bf02a35060d6') in 0.061641 seconds
+  Import took 0.065879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.144326 seconds.
+  path: Assets/Resources/New Material.mat
+  artifactKey: Guid(3857f160f437fa4429692473c43ea7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/New Material.mat using Guid(3857f160f437fa4429692473c43ea7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308d7eda824143b4efede92cf945d1fc') in 0.082733 seconds
+  Import took 0.093106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.719476 seconds.
+  path: Assets/Resources/Materials/InDexCube-Material.mat
+  artifactKey: Guid(3526b42d60930184bbd924015961c8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Materials/InDexCube-Material.mat using Guid(3526b42d60930184bbd924015961c8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef887f7ff685d3d9be0cfc7647b042f') in 0.024176 seconds
+  Import took 0.027793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.653883 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm_MeshUnderBones.fbx
+  artifactKey: Guid(371992c1d2372234b968dc6c00d250c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm_MeshUnderBones.fbx using Guid(371992c1d2372234b968dc6c00d250c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11760f1215e408bf4c49e643a1a6cb09') in 0.274989 seconds
+  Import took 0.282226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Models/WireCube.obj
+  artifactKey: Guid(8ee2dc8e65eab9b4c9123f88fe7484a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Models/WireCube.obj using Guid(8ee2dc8e65eab9b4c9123f88fe7484a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4316ab71022d04f7f8007a7c9eadfc') in 0.044831 seconds
+  Import took 0.048751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Rotator.fbx
+  artifactKey: Guid(ee25147e4552e6643a9b8a5f4e6950f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Rotator.fbx using Guid(ee25147e4552e6643a9b8a5f4e6950f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d78dc50976e233436c2c55ccbb00b9') in 0.037099 seconds
+  Import took 0.041023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Cone.fbx
+  artifactKey: Guid(630161d5d4c851c468f6070be2ed3ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Cone.fbx using Guid(630161d5d4c851c468f6070be2ed3ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7dee7cc6aef1f374802813c5a24a890') in 0.033680 seconds
+  Import took 0.037442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/GenericHand.fbx
+  artifactKey: Guid(4577231256ebec149ac8882d93c98cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/GenericHand.fbx using Guid(4577231256ebec149ac8882d93c98cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5287e8c784e84ccb136b7d1fba0cccc3') in 0.143397 seconds
+  Import took 0.148640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.669913 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat
+  artifactKey: Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/AlphaToWhite.mat using Guid(72e5fb030c388e14f8988b632aea539a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '036e969073679ddbbf6d821020b240b9') in 0.024130 seconds
+  Import took 0.028437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Skybox.mat
+  artifactKey: Guid(4dcebe2eae3130a4c85a843e7323395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Skybox.mat using Guid(4dcebe2eae3130a4c85a843e7323395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87fd4c127ff600f9e0d93ba8dc7319b') in 0.053665 seconds
+  Import took 0.058235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Red.mat
+  artifactKey: Guid(ff7c634b1ca200843b1908e1995a13b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Red.mat using Guid(ff7c634b1ca200843b1908e1995a13b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5581a96cef21265b3134e894ca825a2f') in 0.026908 seconds
+  Import took 0.032303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Blue.mat
+  artifactKey: Guid(668490d1e2537624c99ab58447146100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Blue.mat using Guid(668490d1e2537624c99ab58447146100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977bdceed4a577aa3309b85bc950f22d') in 0.023734 seconds
+  Import took 0.027852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Black Matte.mat
+  artifactKey: Guid(95c889baf756fd84ba2f1ab36adf3687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Black Matte.mat using Guid(95c889baf756fd84ba2f1ab36adf3687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1539cac42c6931de0b178d66b3c458') in 0.027574 seconds
+  Import took 0.032393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Red.mat
+  artifactKey: Guid(113742fcb5ec3254e96c40315b70f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Red.mat using Guid(113742fcb5ec3254e96c40315b70f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f01f91880ef56c676a231f0967ce54d') in 0.023870 seconds
+  Import took 0.028439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Panel.mat
+  artifactKey: Guid(a3927224a38b4c74eb9e223111df6924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Panel.mat using Guid(a3927224a38b4c74eb9e223111df6924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a23fe6e2b64e00aa281440f0af7f514') in 0.028518 seconds
+  Import took 0.033031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Blue.mat
+  artifactKey: Guid(cc811fdfe128d1645a49b0bed5b1cf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Blue.mat using Guid(cc811fdfe128d1645a49b0bed5b1cf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3d5a2e21bdc5cfee5a6a170ceb1e2d') in 0.023116 seconds
+  Import took 0.026846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Magenta.mat
+  artifactKey: Guid(b9d3f1e940eda314f8637d959a3a516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Magenta.mat using Guid(b9d3f1e940eda314f8637d959a3a516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c478ec45d695bcd71ce87b3d156cba9') in 0.027357 seconds
+  Import took 0.031071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Dark Matte.mat
+  artifactKey: Guid(cb707237b19198f4bbc0381c5c11da15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Dark Matte.mat using Guid(cb707237b19198f4bbc0381c5c11da15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68f570556f33ba9449e481cfac6e2be') in 0.025690 seconds
+  Import took 0.030605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Red.mat
+  artifactKey: Guid(7b8e8fb53123e87458def40ee25598ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Anchor Red.mat using Guid(7b8e8fb53123e87458def40ee25598ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f15eee2607d07d4c970678c1ffe4a6') in 0.028391 seconds
+  Import took 0.032142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Ship Light.mat
+  artifactKey: Guid(86a6445786a72a541aadfe4b33ace47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Ship Light.mat using Guid(86a6445786a72a541aadfe4b33ace47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0323008903d2a8f78d4310c27212a63') in 0.030339 seconds
+  Import took 0.034727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Green Dark Standard.mat
+  artifactKey: Guid(4842b2f4fd9791d41975d9dc8a13d707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Green Dark Standard.mat using Guid(4842b2f4fd9791d41975d9dc8a13d707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6aad89d7c57c3c01c68ecd6beea80b') in 0.025367 seconds
+  Import took 0.029714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Magenta.mat
+  artifactKey: Guid(c3668e6cfed1245449b1c77a171b328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Magenta.mat using Guid(c3668e6cfed1245449b1c77a171b328a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7370a94ce5a52e18af1ea925644f37') in 0.027700 seconds
+  Import took 0.031707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Blue Dark Standard.mat
+  artifactKey: Guid(ba8a2058b03e6714ca9d242b51bb0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Blue Dark Standard.mat using Guid(ba8a2058b03e6714ca9d242b51bb0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a7e1c29f554f14a5d14656f9e2d50f') in 0.028093 seconds
+  Import took 0.031923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Linear Reference.mat
+  artifactKey: Guid(d4fa32da6d5945d40af0324afdd7d83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Linear Reference.mat using Guid(d4fa32da6d5945d40af0324afdd7d83f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab22274adeffc3d0fc058547b99f286f') in 0.030343 seconds
+  Import took 0.034357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Green Standard.mat
+  artifactKey: Guid(1c98be40e6a99764cb9e35b111f81340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Green Standard.mat using Guid(1c98be40e6a99764cb9e35b111f81340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e758d27ef4988e1b89091aa3752cfe47') in 0.027052 seconds
+  Import took 0.030699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Background.mat
+  artifactKey: Guid(5542e7d1f79ac814389a3f5fe0c55630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Background.mat using Guid(5542e7d1f79ac814389a3f5fe0c55630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6125ef1b25a58cd094c3320c07707fbf') in 0.024402 seconds
+  Import took 0.030559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Foreground.mat
+  artifactKey: Guid(5c4d27217d0496548bc3a3896886cf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/Foreground.mat using Guid(5c4d27217d0496548bc3a3896886cf70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e077784ed01330e91bee8bfaef0ec890') in 0.023849 seconds
+  Import took 0.028149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Blue.mat
+  artifactKey: Guid(67b66d4eb50ed684d94eb00bc04709d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Blue.mat using Guid(67b66d4eb50ed684d94eb00bc04709d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bda778a71f57b0be11e35f6a4b6d9a') in 0.027498 seconds
+  Import took 0.031790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Blue.mat
+  artifactKey: Guid(2b0b0f5d22d773a439b6e3f7f0f0db48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Blue.mat using Guid(2b0b0f5d22d773a439b6e3f7f0f0db48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3264b1bdaec76c690961fe3dccdb6105') in 0.027916 seconds
+  Import took 0.032048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Green.mat
+  artifactKey: Guid(81f6d387b9d5c994d9e291af97c84648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Green.mat using Guid(81f6d387b9d5c994d9e291af97c84648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5802af2ef18e5c279da6e713fb5052ea') in 0.027022 seconds
+  Import took 0.032073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Material.mat
+  artifactKey: Guid(c49b4153c4032784bbc659f359b10954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Material.mat using Guid(c49b4153c4032784bbc659f359b10954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8902e32a25776c5c42a77e8d5c7c362a') in 0.027828 seconds
+  Import took 0.032940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Magenta.mat
+  artifactKey: Guid(69b1643ce1326a54eb20c5022c2482ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Magenta.mat using Guid(69b1643ce1326a54eb20c5022c2482ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d96be979599ab0f2f5f9d56890935d3') in 0.034091 seconds
+  Import took 0.039599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Red.mat
+  artifactKey: Guid(dc45d6090197f2d439bcbcc7422683b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Button Top Red.mat using Guid(dc45d6090197f2d439bcbcc7422683b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4696599d6bef27ff91ff44d800370dd') in 0.026786 seconds
+  Import took 0.031671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Ship Hull.mat
+  artifactKey: Guid(65931aeabdda990478006d61615bed18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Materials/IE Example 7 Ship Hull.mat using Guid(65931aeabdda990478006d61615bed18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14cd10cee91ff653191df31d8be21d1') in 0.027691 seconds
+  Import took 0.033236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/Ghost Hand.mat
+  artifactKey: Guid(4c1d8de22955e4a4c8dda3f54365517d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/Ghost Hand.mat using Guid(4c1d8de22955e4a4c8dda3f54365517d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3808f2589d1bfb5b11885101a9509b1') in 0.033711 seconds
+  Import took 0.037528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Blue Standard.mat
+  artifactKey: Guid(64c9f49445bfa804299126cc11bfd4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Blue Standard.mat using Guid(64c9f49445bfa804299126cc11bfd4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6156597390f6afc53d3c3ed4d834fe33') in 0.027599 seconds
+  Import took 0.032789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.904810 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Magenta.mat
+  artifactKey: Guid(1c47cc1942430364aa9648991bb85e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Magenta.mat using Guid(1c47cc1942430364aa9648991bb85e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bcbb3b6cc8604f0b8043cb807a9714') in 0.158805 seconds
+  Import took 0.163191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Magenta Inner.mat
+  artifactKey: Guid(854b52ee442177745ac03e1917e527a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Magenta Inner.mat using Guid(854b52ee442177745ac03e1917e527a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26397d36793ee83706565ead16f0e6ff') in 0.027615 seconds
+  Import took 0.031463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Red Standard.mat
+  artifactKey: Guid(51ee002e89aeabf45adc1f83587093ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Red Standard.mat using Guid(51ee002e89aeabf45adc1f83587093ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3851931f6c01d810da3c4f62fcceb219') in 0.027436 seconds
+  Import took 0.031280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/index_material.mat
+  artifactKey: Guid(c375ec79986a5b746b3b2336c28df434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/index_material.mat using Guid(c375ec79986a5b746b3b2336c28df434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d4d675e4436404edff4ccd95439d28') in 0.022571 seconds
+  Import took 0.029224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Red Dark Standard.mat
+  artifactKey: Guid(da67de850ecf2ee4ca13ab3720fed439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Materials/Red Dark Standard.mat using Guid(da67de850ecf2ee4ca13ab3720fed439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b3798317066ff7c20f33bc77ce9682') in 0.026009 seconds
+  Import took 0.032771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Slippery Floor.mat
+  artifactKey: Guid(4f57ce981e8d73e4bad6f876b171592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Slippery Floor.mat using Guid(4f57ce981e8d73e4bad6f876b171592f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dcbe6bca9f9eab5feef4bf54ba8bd4') in 0.027205 seconds
+  Import took 0.031936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Red.mat
+  artifactKey: Guid(715d23d2330038e4997eaf7979f4d64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Red.mat using Guid(715d23d2330038e4997eaf7979f4d64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9c017ebe1034bf6ed1f007f244ade8') in 0.025507 seconds
+  Import took 0.030209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Reflection Transparent.mat
+  artifactKey: Guid(c12aa740729ba6647b92aafc5837f7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Reflection Transparent.mat using Guid(c12aa740729ba6647b92aafc5837f7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f998b6265e2993899fd438a391ca7a') in 0.026922 seconds
+  Import took 0.031089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat
+  artifactKey: Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/StereoIR170InteractionVolume.mat using Guid(095eb2a35819f824e989239e78fa4de7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2796a10a7eb37f2474476d2ec97f84') in 0.050547 seconds
+  Import took 0.055438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Materials/No Name.mat
+  artifactKey: Guid(0e06bc9005c025b4aa939d31f6e78e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/3. Interaction Callbacks/Models/Materials/No Name.mat using Guid(0e06bc9005c025b4aa939d31f6e78e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013bc8072b91443d37f6206b8210aee1') in 0.029845 seconds
+  Import took 0.034746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/Outline.mat
+  artifactKey: Guid(205eb13c26243634c9e71c8adc6440b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/GenericHand/Outline.mat using Guid(205eb13c26243634c9e71c8adc6440b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d1c70649b80e86897a803d5a041252') in 0.054659 seconds
+  Import took 0.059323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Unlit Text BG Dark.mat
+  artifactKey: Guid(5bfb48adea98f2b4eb8c987cde2c6173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Unlit Text BG Dark.mat using Guid(5bfb48adea98f2b4eb8c987cde2c6173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2d77ca99880405eef7b44980cb1b63e') in 0.038491 seconds
+  Import took 0.064779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat
+  artifactKey: Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/InstancedCapsuleHand.mat using Guid(50db6ec9473cfa746a5882bd2a16ced8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16be7cbf22022a2ff0aad2a5ccfc5e0e') in 0.052358 seconds
+  Import took 0.060381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereY.mat
+  artifactKey: Guid(d4042b3053c957348b6879e3aa751969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereY.mat using Guid(d4042b3053c957348b6879e3aa751969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ae7730de058de7728c8b9be4b58af9') in 0.036983 seconds
+  Import took 0.042279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereZ.mat
+  artifactKey: Guid(896523dcb08797746b7118238fe354db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereZ.mat using Guid(896523dcb08797746b7118238fe354db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b9779177dae772b43bdee4277da682') in 0.036695 seconds
+  Import took 0.040104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Unlit Text BG Light.mat
+  artifactKey: Guid(13c8d12cf9f998048a24a2f7adc62041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Unlit Text BG Light.mat using Guid(13c8d12cf9f998048a24a2f7adc62041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c4a0a8eb20bd265ed4415f6a3a55b2') in 0.029373 seconds
+  Import took 0.035756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Red Inner.mat
+  artifactKey: Guid(fe8d338c2c6190046ab9cde3a05d52d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Red Inner.mat using Guid(fe8d338c2c6190046ab9cde3a05d52d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e19664f18f713edf9244b5863f722c') in 0.036855 seconds
+  Import took 0.043401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereX.mat
+  artifactKey: Guid(86566622ce0c16442bec9518e6c48937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereX.mat using Guid(86566622ce0c16442bec9518e6c48937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed289a01ff01942e885e2ed216aa413c') in 0.037070 seconds
+  Import took 0.041032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm.mat
+  artifactKey: Guid(fc295eba5abda994e8e9dd730218fa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm.mat using Guid(fc295eba5abda994e8e9dd730218fa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb3e4d103e1809e826ecb961014a3b5') in 0.069424 seconds
+  Import took 0.073956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereX.mat
+  artifactKey: Guid(86566622ce0c16442bec9518e6c48937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example SphereX.mat using Guid(86566622ce0c16442bec9518e6c48937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed289a01ff01942e885e2ed216aa413c') in 0.030210 seconds
+  Import took 0.037092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Materials/Passthrough/ThresholdOverlay.mat
+  artifactKey: Guid(d13beceec606bdd4c84a60e313ea18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Materials/Passthrough/ThresholdOverlay.mat using Guid(d13beceec606bdd4c84a60e313ea18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5385dad241c4750274e9e555222399b') in 0.039231 seconds
+  Import took 0.050814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.320438 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Blue.mat
+  artifactKey: Guid(f5a3b806279e74b44b5bf9c4080225be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Blue.mat using Guid(f5a3b806279e74b44b5bf9c4080225be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4051134cd492cdc14862e76b9cef2862') in 0.030913 seconds
+  Import took 0.034563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Red.mat
+  artifactKey: Guid(6d23fd159c2675a449dee1b04c5f8286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Red.mat using Guid(6d23fd159c2675a449dee1b04c5f8286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46435cb7ef5635789ca0f78d4c76964d') in 0.030410 seconds
+  Import took 0.034667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Blue.mat
+  artifactKey: Guid(c72f96eddcce18e40b75a40fd5b472f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Blue.mat using Guid(c72f96eddcce18e40b75a40fd5b472f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffcd9b24bed693a0e3e3ea63d9fc76d') in 0.034269 seconds
+  Import took 0.040234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Blue Inner.mat
+  artifactKey: Guid(f99be3eba6be7de469f615e931e32b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Prism Blue Inner.mat using Guid(f99be3eba6be7de469f615e931e32b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1f8a6ae87a6c04803134011936f675') in 0.037090 seconds
+  Import took 0.041634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Magenta.mat
+  artifactKey: Guid(2c27ee87798951a46863d8e0330c6969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Materials/IE Example Panel Magenta.mat using Guid(2c27ee87798951a46863d8e0330c6969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad3802988f367cb7b90e0a9fb982a1b') in 0.027265 seconds
+  Import took 0.032742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Gray Matte.mat
+  artifactKey: Guid(ae962c51f2146e4439603b2865982593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Gray Matte.mat using Guid(ae962c51f2146e4439603b2865982593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2595128a97f3dd7e1c050d1c6e78670') in 0.198525 seconds
+  Import took 0.202282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Metallic.mat
+  artifactKey: Guid(bdfd2de707005aa4288a25d4ee9c3b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Metallic.mat using Guid(bdfd2de707005aa4288a25d4ee9c3b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d409a862c249a62ccc9287cc000f83') in 0.025555 seconds
+  Import took 0.031845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Gray Matte.mat
+  artifactKey: Guid(8eca0b31e096dbb4e9ec168e385043a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Gray Matte.mat using Guid(8eca0b31e096dbb4e9ec168e385043a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90064a5aa8e012488e979261f02ea1d4') in 0.030456 seconds
+  Import took 0.035374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Matte.mat
+  artifactKey: Guid(e3e996b13676a484ebc0a80bbb24be05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Matte.mat using Guid(e3e996b13676a484ebc0a80bbb24be05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b44df7cdc354bdaab94ca5e6fdf4ca5') in 0.031685 seconds
+  Import took 0.038363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008792 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Matte.mat
+  artifactKey: Guid(e3e996b13676a484ebc0a80bbb24be05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Materials/IE Example Light Matte.mat using Guid(e3e996b13676a484ebc0a80bbb24be05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b44df7cdc354bdaab94ca5e6fdf4ca5') in 0.017457 seconds
+  Import took 0.024492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.583671 seconds.
+  path: Assets/Resources/InDexCube.mtl
+  artifactKey: Guid(0332ed0c1d7d58642b131e7f8ea2a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/InDexCube.mtl using Guid(0332ed0c1d7d58642b131e7f8ea2a894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8753ae636c528e45319d9473dde2a665') in 0.010455 seconds
+  Import took 0.015900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.271940 seconds.
+  path: Assets/Resources/Materials
+  artifactKey: Guid(ed3f6583ebdf6204f9bc3fba0d1c94dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Materials using Guid(ed3f6583ebdf6204f9bc3fba0d1c94dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a462f6bf5083189ddd43ddfc453bd6') in 0.014448 seconds
+  Import took 0.018557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.627231 seconds.
+  path: Assets/Resources/Materials/InDexCubeTexture.mat
+  artifactKey: Guid(cfb0eeb184821914993df2fc06a14813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Materials/InDexCubeTexture.mat using Guid(cfb0eeb184821914993df2fc06a14813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d1fb9ce6568efb795fb659a32089e5') in 0.021463 seconds
+  Import took 0.025757 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1994.
+Total: 2.530100 ms (FindLiveObjects: 0.372600 ms CreateObjectMapping: 0.076300 ms MarkObjects: 1.976800 ms  DeleteObjects: 0.102300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1997.
+Total: 2.177500 ms (FindLiveObjects: 0.234000 ms CreateObjectMapping: 0.088100 ms MarkObjects: 1.770900 ms  DeleteObjects: 0.082500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001407 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2000.
+Total: 4.616300 ms (FindLiveObjects: 1.315900 ms CreateObjectMapping: 0.380500 ms MarkObjects: 2.797700 ms  DeleteObjects: 0.120200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001206 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 2.528100 ms (FindLiveObjects: 0.218500 ms CreateObjectMapping: 0.063400 ms MarkObjects: 2.165700 ms  DeleteObjects: 0.079200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001078 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.080 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2006.
+Total: 2.347800 ms (FindLiveObjects: 0.231600 ms CreateObjectMapping: 0.114800 ms MarkObjects: 1.891000 ms  DeleteObjects: 0.108900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2009.
+Total: 2.786000 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.086600 ms MarkObjects: 2.340600 ms  DeleteObjects: 0.094900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2012.
+Total: 2.048500 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.065400 ms MarkObjects: 1.708100 ms  DeleteObjects: 0.077300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2015.
+Total: 2.967800 ms (FindLiveObjects: 0.255700 ms CreateObjectMapping: 0.081300 ms MarkObjects: 2.547000 ms  DeleteObjects: 0.081800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001039 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2018.
+Total: 2.617300 ms (FindLiveObjects: 0.320200 ms CreateObjectMapping: 0.084700 ms MarkObjects: 2.095700 ms  DeleteObjects: 0.114700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.140 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.3 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2021.
+Total: 2.376900 ms (FindLiveObjects: 0.254000 ms CreateObjectMapping: 0.076900 ms MarkObjects: 1.915600 ms  DeleteObjects: 0.129100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3094.517135 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Anchor.prefab
+  artifactKey: Guid(0ec3b9195e40d4f4e9ca839839bfbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Anchor.prefab using Guid(0ec3b9195e40d4f4e9ca839839bfbf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23f182ba557f3fbccd5b5b7f0fe18cf') in 0.137748 seconds
+  Import took 0.142162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionSphere.prefab
+  artifactKey: Guid(5a1fb53528997fe478560ab3120da9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionSphere.prefab using Guid(5a1fb53528997fe478560ab3120da9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d86c3c9675bc60b912ed0b83f1b1b5d') in 0.034169 seconds
+  Import took 0.038050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/LoPoly Rigged Hand Right.prefab
+  artifactKey: Guid(2276723046d707c4f94d431ceb80ab92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/LoPoly Rigged Hand Right.prefab using Guid(2276723046d707c4f94d431ceb80ab92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8fc959d048a88ad16a29c2bac199ab') in 0.065023 seconds
+  Import took 0.069346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/Misc/FpsLabel.prefab
+  artifactKey: Guid(81a58ec9c7a7a4fababa39069949658f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/Misc/FpsLabel.prefab using Guid(81a58ec9c7a7a4fababa39069949658f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b5194726f92a169d75b654c09e7341') in 0.013615 seconds
+  Import took 0.017357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/OutlineHands.prefab
+  artifactKey: Guid(1b43d6eb40db60b419700fd2677e79c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/OutlineHands.prefab using Guid(1b43d6eb40db60b419700fd2677e79c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0225743f46099c3c524d927bd4d6548') in 0.066673 seconds
+  Import took 0.070701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/DebugHand.prefab
+  artifactKey: Guid(e98e2c2cadb464c9892b9e4d60d61f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/DebugHand.prefab using Guid(e98e2c2cadb464c9892b9e4d60d61f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad897159b26e836b21d4824a6ed06754') in 0.015969 seconds
+  Import took 0.019479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionIcosahedron.prefab
+  artifactKey: Guid(e2b312b753498524289c413de369c1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionIcosahedron.prefab using Guid(e2b312b753498524289c413de369c1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2656449f199886f43f271e409edb925') in 0.028086 seconds
+  Import took 0.032015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/GhostHands.prefab
+  artifactKey: Guid(e7e358565e530214c97adba8c82fedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/GhostHands.prefab using Guid(e7e358565e530214c97adba8c82fedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beabf3137fcc875b0af49d8bdb8fd9d0') in 0.047679 seconds
+  Import took 0.051795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionCapsule.prefab
+  artifactKey: Guid(88a926f39f5ae5c40976d0ff02c7fd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionCapsule.prefab using Guid(88a926f39f5ae5c40976d0ff02c7fd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36594f70113979897dbf726073b5a4d8') in 0.025778 seconds
+  Import took 0.031634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Cube UI Button.prefab
+  artifactKey: Guid(df84af96020c94b4695aec5c3427db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Cube UI Button.prefab using Guid(df84af96020c94b4695aec5c3427db16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1978a4af03b74fd15603aa1c38466cba') in 0.044724 seconds
+  Import took 0.048992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Testing/EditorResources/Recordings/IE Test Recording Rig.prefab
+  artifactKey: Guid(371cc6d5ff892384b985116202901b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Testing/EditorResources/Recordings/IE Test Recording Rig.prefab using Guid(371cc6d5ff892384b985116202901b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daac81af3bcf6f19c2781ce394fbedd') in 0.080428 seconds
+  Import took 0.085680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Magenta).prefab
+  artifactKey: Guid(42e8bd39fe145a8419d212958fac6589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Magenta).prefab using Guid(42e8bd39fe145a8419d212958fac6589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf5d779e7d80e9a731195cb21eed3fd') in 0.047385 seconds
+  Import took 0.051440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object.prefab
+  artifactKey: Guid(b9f0dad90c497f440957662b437836f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object.prefab using Guid(b9f0dad90c497f440957662b437836f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18c667b772b7b5658fea69ff0de4f10') in 0.030511 seconds
+  Import took 0.034479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab
+  artifactKey: Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab using Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e92dd672bf958dab40b6caebf8dc532') in 0.014695 seconds
+  Import took 0.018840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab
+  artifactKey: Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab using Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc3043a3ac0da1c588173306acb72fca') in 0.024259 seconds
+  Import took 0.027920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidFullHand.prefab
+  artifactKey: Guid(f64990f14a4ef41e1aa0c2c8b5fbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidFullHand.prefab using Guid(f64990f14a4ef41e1aa0c2c8b5fbf1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40da7bec4532b95d64b7fc48c0b4453') in 0.023026 seconds
+  Import took 0.027155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Transform Prefab.prefab
+  artifactKey: Guid(1477d75bc13cce74ea026927aa88dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Transform Prefab.prefab using Guid(1477d75bc13cce74ea026927aa88dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30a3c3b77a1c85f045913937d3b6381') in 0.033238 seconds
+  Import took 0.039355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/CapsuleHands.prefab
+  artifactKey: Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/CapsuleHands.prefab using Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67115b79d05f7e05725211caf8ce1b53') in 0.016983 seconds
+  Import took 0.021038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab
+  artifactKey: Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab using Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d3c2487e512cc49c313bc657f14b12') in 0.016313 seconds
+  Import took 0.020287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Button.prefab
+  artifactKey: Guid(0e920b4bcf163f64194e925fe0b51015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Button.prefab using Guid(0e920b4bcf163f64194e925fe0b51015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d85357f9598c5ae204fdb29a23d202') in 0.027606 seconds
+  Import took 0.031627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab
+  artifactKey: Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab using Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1070a2501a97a3e22cdd8e1c9a441e') in 0.018874 seconds
+  Import took 0.023534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionCube.prefab
+  artifactKey: Guid(8998b2da307be7f419e285784a8495a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Prefabs/InteractionCube.prefab using Guid(8998b2da307be7f419e285784a8495a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc5f47080914072abb555d0e55a6f57') in 0.022757 seconds
+  Import took 0.026966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Prefabs/Linear Speed Reference.prefab
+  artifactKey: Guid(f7aee85167a12b3458ac0d13bd8fb048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/7. Moving Reference Frames/Prefabs/Linear Speed Reference.prefab using Guid(f7aee85167a12b3458ac0d13bd8fb048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef88a6c8580f6b83324801fc1bea9060') in 0.023665 seconds
+  Import took 0.028070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000852 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Explanation Text.prefab
+  artifactKey: Guid(d53bbce24b78fb742ba7b93ce8a36f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Explanation Text.prefab using Guid(d53bbce24b78fb742ba7b93ce8a36f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832874991a99ed6368d0295cd3942203') in 0.026112 seconds
+  Import took 0.030988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Blue).prefab
+  artifactKey: Guid(6d3e45125c02bea4c9c28f57a82c3f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Blue).prefab using Guid(6d3e45125c02bea4c9c28f57a82c3f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7f06d8984f13d8510ce2b2fda9af16') in 0.060238 seconds
+  Import took 0.064585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/LoPoly Rigged Hand Left.prefab
+  artifactKey: Guid(2aa010a1e75292e49a24f3f71bb9cddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/LoPoly Rigged Hand Left.prefab using Guid(2aa010a1e75292e49a24f3f71bb9cddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb42e644a6f7c7961e29c8afd90ed35') in 0.052937 seconds
+  Import took 0.061500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Red).prefab
+  artifactKey: Guid(73dde5b40fafb9f439cae744996d7913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Prefabs/Dynamic UI Object (Red).prefab using Guid(73dde5b40fafb9f439cae744996d7913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475f0886b52f7f31d233c464228e4a20') in 0.043721 seconds
+  Import took 0.051119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Object.prefab
+  artifactKey: Guid(d927f226198a4c041848215cdda6fd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Object.prefab using Guid(d927f226198a4c041848215cdda6fd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d909bc7f05f6e210b6a46daf541e9e') in 0.027400 seconds
+  Import took 0.034201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/LowPolyHands.prefab
+  artifactKey: Guid(1d338fed0ed7df84a86c220153fbcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/LowPolyHands.prefab using Guid(1d338fed0ed7df84a86c220153fbcc35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0226c4453f75792c80205dfb421318fa') in 0.044222 seconds
+  Import took 0.052436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.476701 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidHand.prefab
+  artifactKey: Guid(4b359b2f0d7d14ef0a97b45ec153a3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidHand.prefab using Guid(4b359b2f0d7d14ef0a97b45ec153a3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a430a731ab0c0d959ef4beed3971282') in 0.012791 seconds
+  Import took 0.016211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test 2 (Pose).prefab
+  artifactKey: Guid(c7982af5f21dd2d4594b08d35838f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test 2 (Pose).prefab using Guid(c7982af5f21dd2d4594b08d35838f649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e54541a559e04e3cf970d401e89ac6e') in 0.020830 seconds
+  Import took 0.025167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/ThickRigidHand.prefab
+  artifactKey: Guid(d1ee2987e72174f659cdf5447ad5403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/ThickRigidHand.prefab using Guid(d1ee2987e72174f659cdf5447ad5403c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532468238ec8b2ad1107737885033412') in 0.016697 seconds
+  Import took 0.020615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Stage.prefab
+  artifactKey: Guid(9b0d46ef9e6296640baaf7bac58ac47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Stage.prefab using Guid(9b0d46ef9e6296640baaf7bac58ac47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1536805b726be893fb8f0bd52cd48719') in 0.028458 seconds
+  Import took 0.034581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/SkeletonHands.prefab
+  artifactKey: Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/SkeletonHands.prefab using Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6bbaa366d09b0f1788c9533a7818aa') in 0.045004 seconds
+  Import took 0.050958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test (Position).prefab
+  artifactKey: Guid(35d6d73573ae356469346dc430a03d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/Splines/Examples/Transform Catmull-Rom Spline Test (Position).prefab using Guid(35d6d73573ae356469346dc430a03d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d34fc006ed5a5be6bdcf743180a259f') in 0.029209 seconds
+  Import took 0.035415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand_R.prefab
+  artifactKey: Guid(c8515ebee271c0649b9db1321f3026a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand_R.prefab using Guid(c8515ebee271c0649b9db1321f3026a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7731d9007c5f5b9e27671275e86ab1b') in 0.017154 seconds
+  Import took 0.021619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand.prefab
+  artifactKey: Guid(dc02f2d83c1ac4b4d9b4ec82df1b1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand.prefab using Guid(dc02f2d83c1ac4b4d9b4ec82df1b1732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2667e18d8616b2ce2d56afe2da648554') in 0.020377 seconds
+  Import took 0.024766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand_L.prefab
+  artifactKey: Guid(23f2cce114628a448bfeaae171b4c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsPhysical/RigidRoundHand_L.prefab using Guid(23f2cce114628a448bfeaae171b4c0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1a8451db45f24fd600eb17d47fc10f') in 0.015385 seconds
+  Import took 0.019345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.491272 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Unity Built-in VR Controller (Left).prefab
+  artifactKey: Guid(2d3679cbbb1638e4d84497b3eaaf0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Unity Built-in VR Controller (Left).prefab using Guid(2d3679cbbb1638e4d84497b3eaaf0f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67410d475ed44a13e4ca0f3429fd600a') in 0.016286 seconds
+  Import took 0.019703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab
+  artifactKey: Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab using Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e429ed6bd31b8b5c1b169071a30bd3cf') in 0.022723 seconds
+  Import took 0.026854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab
+  artifactKey: Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab using Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128c82ff525c19e75a49924bde9089ab') in 0.024960 seconds
+  Import took 0.028652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Unity Built-in VR Controller (Right).prefab
+  artifactKey: Guid(c2f432850d1e97944a20cbab04cab188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Prefabs/Unity Built-in VR Controller (Right).prefab using Guid(c2f432850d1e97944a20cbab04cab188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c09c700923ebf7761b8a043f8e5735d') in 0.016889 seconds
+  Import took 0.022659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab
+  artifactKey: Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab using Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46472d807a97489472c8173fade058be') in 0.029609 seconds
+  Import took 0.034672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab
+  artifactKey: Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab using Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58f437081cbb405d4025f6a6b65093b') in 0.033506 seconds
+  Import took 0.037447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Models/WireCube Mesh.prefab
+  artifactKey: Guid(3460716ea615d994fb1bdabbcdaa1770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Models/WireCube Mesh.prefab using Guid(3460716ea615d994fb1bdabbcdaa1770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37406263d4511f07730de904575e4016') in 0.029609 seconds
+  Import took 0.033726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.400149 seconds.
+  path: Assets/URDF/meshes/30mm 3 hole.prefab
+  artifactKey: Guid(5788d28966f1bfb4ab1652a030694037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/30mm 3 hole.prefab using Guid(5788d28966f1bfb4ab1652a030694037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472d537de37e629c110e0a87bf6e5721') in 0.195537 seconds
+  Import took 0.207366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/URDF/meshes/45mm 3 hole.prefab
+  artifactKey: Guid(97b29cc1910a3c2479baab083e391d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/45mm 3 hole.prefab using Guid(97b29cc1910a3c2479baab083e391d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ceeebe37fefd030a8230c36ba5bd8f') in 0.025020 seconds
+  Import took 0.030414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/URDF/meshes/fingertip-v9.prefab
+  artifactKey: Guid(4276db66ff7355648a64cf5f2ba5dd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/fingertip-v9.prefab using Guid(4276db66ff7355648a64cf5f2ba5dd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369d46dd2206b7889a0d39690e3dafa2') in 0.069853 seconds
+  Import took 0.075753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/URDF/meshes/40mm-hex-standoff.prefab
+  artifactKey: Guid(0b94b6ef38936cb4f9ee4f1add751dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/40mm-hex-standoff.prefab using Guid(0b94b6ef38936cb4f9ee4f1add751dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ade2ad735e0773ed6cd8d925d75020') in 0.023889 seconds
+  Import took 0.027733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/URDF/meshes/Fingertip.prefab
+  artifactKey: Guid(f968edb6fd76af645af9d17d349e5e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Fingertip.prefab using Guid(f968edb6fd76af645af9d17d349e5e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a34df818a4a52970b614123da42bbe7') in 0.027192 seconds
+  Import took 0.032568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/URDF/meshes/30mmROSFULL.prefab
+  artifactKey: Guid(ec3b1bf631d3a234c94c8a5add7d5165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/30mmROSFULL.prefab using Guid(ec3b1bf631d3a234c94c8a5add7d5165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c75eb862945e18e6db76e936b816cb8') in 0.028957 seconds
+  Import took 0.033372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.660433 seconds.
+  path: Assets/URDF/meshes/link-rod-C4.prefab
+  artifactKey: Guid(59c3ac584b21d21419ed4bb900cf3792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/link-rod-C4.prefab using Guid(59c3ac584b21d21419ed4bb900cf3792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213fc788df9775860bd2bfce2a2c727f') in 0.020288 seconds
+  Import took 0.023982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/URDF/meshes/Palm-LEFT.prefab
+  artifactKey: Guid(bf9161e0961d5724e990cc8504e4977c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Palm-LEFT.prefab using Guid(bf9161e0961d5724e990cc8504e4977c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f882c612ba4c29608e4bd6c54b3f15') in 0.041577 seconds
+  Import took 0.044675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/URDF/meshes/Palm -RIGHT.prefab
+  artifactKey: Guid(26a374411c6f96a43bf7be286490bec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Palm -RIGHT.prefab using Guid(26a374411c6f96a43bf7be286490bec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9866860c431f27ce1eeb09b76a8f73') in 0.038821 seconds
+  Import took 0.044874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021874 seconds.
+  path: Assets/URDF/meshes/rod-end-2mm-BLUE.prefab
+  artifactKey: Guid(6f04ce31fc4484147867fa6b5ba38b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/rod-end-2mm-BLUE.prefab using Guid(6f04ce31fc4484147867fa6b5ba38b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbecae6e818c201f3de13152b2d419e') in 0.031063 seconds
+  Import took 0.034718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/URDF/meshes/Thumb 1.prefab
+  artifactKey: Guid(246c30d3395f2da44a8446e2c284e1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 1.prefab using Guid(246c30d3395f2da44a8446e2c284e1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7546ed1d46dcb23d0e32510f59adba4') in 0.023031 seconds
+  Import took 0.027967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/URDF/meshes/Thumb 2.prefab
+  artifactKey: Guid(2a9eae7fba6826c4badfdc21d353c608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 2.prefab using Guid(2a9eae7fba6826c4badfdc21d353c608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3846ddeba68f2ff3148bd8434d069b41') in 0.025859 seconds
+  Import took 0.030034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/URDF/meshes/Thumb 3-Rev2.prefab
+  artifactKey: Guid(4dfae6d618668014eaa8145414c03278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 3-Rev2.prefab using Guid(4dfae6d618668014eaa8145414c03278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719f8d6619b97ac3a1cda429b39ba14c') in 0.028486 seconds
+  Import took 0.032081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/URDF/meshes/U-bracket-1.prefab
+  artifactKey: Guid(59efeed8adf900d408b19ebdb9b925b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/U-bracket-1.prefab using Guid(59efeed8adf900d408b19ebdb9b925b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12907daa8a1def4fcf3e8a387f14a249') in 0.028033 seconds
+  Import took 0.032423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/URDF/meshes/rod-end-2mm-BLUE.prefab
+  artifactKey: Guid(6f04ce31fc4484147867fa6b5ba38b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/rod-end-2mm-BLUE.prefab using Guid(6f04ce31fc4484147867fa6b5ba38b42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbecae6e818c201f3de13152b2d419e') in 0.029869 seconds
+  Import took 0.034796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/URDF/meshes/wrist support-right.prefab
+  artifactKey: Guid(43b23e26fbfb6c044b4598c9fcee709c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/wrist support-right.prefab using Guid(43b23e26fbfb6c044b4598c9fcee709c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe339f567ddf71e12d9c4e2400814b65') in 0.029440 seconds
+  Import took 0.034336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/URDF/meshes/wrist plate.prefab
+  artifactKey: Guid(187c067c1777fbd49949312e3ed833d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/wrist plate.prefab using Guid(187c067c1777fbd49949312e3ed833d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb0cebe4add1763c602124f4fcad3e6') in 0.027868 seconds
+  Import took 0.032887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.628097 seconds.
+  path: Assets/URDF/Materials/black.mat
+  artifactKey: Guid(ebc42ccc88db13a458e5307a5ee5ca93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/Materials/black.mat using Guid(ebc42ccc88db13a458e5307a5ee5ca93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481b5260b293dc90572d5a9e6ebf69f0') in 0.035024 seconds
+  Import took 0.038914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/URDF/Materials/Default.mat
+  artifactKey: Guid(432ccbcb2b481194eaec12086b922b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/Materials/Default.mat using Guid(432ccbcb2b481194eaec12086b922b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06080d7b6a1fad6611a346256ddfd664') in 0.104536 seconds
+  Import took 0.107860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/URDF/Materials/blue.mat
+  artifactKey: Guid(e8af943e59835fb4dafe9817f2582a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/Materials/blue.mat using Guid(e8af943e59835fb4dafe9817f2582a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0dbf5e08ab6f72a18e00ca59fe7202') in 0.023148 seconds
+  Import took 0.026984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.540304 seconds.
+  path: Assets/URDF/meshes/30mm 3 hole_0.asset
+  artifactKey: Guid(2ebcc7c15e08d214b87c37735db35ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/30mm 3 hole_0.asset using Guid(2ebcc7c15e08d214b87c37735db35ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9752360c538c2c303e0c52b433f88e') in 0.049326 seconds
+  Import took 0.053354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/URDF/meshes/link-rod-C4_0.asset
+  artifactKey: Guid(83e00f652b0b1ab41a662d11d6eadb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/link-rod-C4_0.asset using Guid(83e00f652b0b1ab41a662d11d6eadb0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94a171ab7cdfbf0cac6ce3bb32e28a8') in 0.026103 seconds
+  Import took 0.030278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/URDF/meshes/fingertip-v9_0.asset
+  artifactKey: Guid(14563d2b1e2ad6f4ab038d16ad6a7390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/fingertip-v9_0.asset using Guid(14563d2b1e2ad6f4ab038d16ad6a7390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e645959781337f9a5e0c0f843753b10c') in 0.038353 seconds
+  Import took 0.042681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/URDF/meshes/30mmROSFULL_0.asset
+  artifactKey: Guid(9b6e0bbe8c32a1f4998ff26e004c7132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/30mmROSFULL_0.asset using Guid(9b6e0bbe8c32a1f4998ff26e004c7132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '297de62ee8400a43850decc9c2bd0030') in 0.021914 seconds
+  Import took 0.026358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/URDF/meshes/Fingertip_0.asset
+  artifactKey: Guid(77ada225a9dc8af4a92046118c1b6753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Fingertip_0.asset using Guid(77ada225a9dc8af4a92046118c1b6753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fa036161b0c935c1efaa342c9483cd') in 0.033764 seconds
+  Import took 0.038114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/URDF/meshes/Palm-LEFT_0.asset
+  artifactKey: Guid(bfbb5f508b5871b4e85db9ccff66f000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Palm-LEFT_0.asset using Guid(bfbb5f508b5871b4e85db9ccff66f000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9edfb3031595cbbc55ecc4aba541ae') in 0.048599 seconds
+  Import took 0.052558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/URDF/meshes/Thumb 2_0.asset
+  artifactKey: Guid(05dc0718079d4054c8665bf3fbc99cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 2_0.asset using Guid(05dc0718079d4054c8665bf3fbc99cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b05c4fbe910ca06d4b2250d9246079') in 0.028661 seconds
+  Import took 0.032894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/URDF/meshes/rod-end-2mm-BLUE_0.asset
+  artifactKey: Guid(94807efd047ffe445b0cb5085c5fd27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/rod-end-2mm-BLUE_0.asset using Guid(94807efd047ffe445b0cb5085c5fd27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eac3d067eb8c1fddf9379f57f55e465') in 0.037160 seconds
+  Import took 0.042137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/URDF/meshes/40mm-hex-standoff_0.asset
+  artifactKey: Guid(c0c7b8f83ba99704393f1fc7aa0f7402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/40mm-hex-standoff_0.asset using Guid(c0c7b8f83ba99704393f1fc7aa0f7402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60f2079aa0528c46e7799b623f8ec21') in 0.277763 seconds
+  Import took 0.285577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/URDF/meshes/Palm -RIGHT_0.asset
+  artifactKey: Guid(95dd5a215b0c24f4f80f24ec09fedbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Palm -RIGHT_0.asset using Guid(95dd5a215b0c24f4f80f24ec09fedbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51930675c8f7fbd66c6e2c7d9c3f6e1') in 0.042761 seconds
+  Import took 0.046700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/URDF/meshes/Thumb 1_0.asset
+  artifactKey: Guid(f573758033c837b419d4014b404a56c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 1_0.asset using Guid(f573758033c837b419d4014b404a56c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc7a868f12f0039f0fba694976e64d3') in 0.051344 seconds
+  Import took 0.055819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/URDF/meshes/45mm 3 hole_0.asset
+  artifactKey: Guid(95e8a56013a80a5438b3131428d89cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/45mm 3 hole_0.asset using Guid(95e8a56013a80a5438b3131428d89cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b3257119757525cdab6b9d9635a848') in 0.050767 seconds
+  Import took 0.057448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.063229 seconds.
+  path: Assets/URDF/meshes/Thumb 3-Rev2_0.asset
+  artifactKey: Guid(0d647cca8b1b2e74288e4de2447e139e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/Thumb 3-Rev2_0.asset using Guid(0d647cca8b1b2e74288e4de2447e139e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd330c8d15158b763f588808cf35fc22') in 0.021265 seconds
+  Import took 0.026404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000481 seconds.
+  path: Assets/URDF/meshes/wrist plate_0.asset
+  artifactKey: Guid(ccfa3c36952f6bb438aeb98a78fb99c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/wrist plate_0.asset using Guid(ccfa3c36952f6bb438aeb98a78fb99c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e681ee189b55316850f4396e3ae0d9a') in 0.030157 seconds
+  Import took 0.035849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000913 seconds.
+  path: Assets/URDF/meshes/U-bracket-1_0.asset
+  artifactKey: Guid(37248c879d65a2149ae2b3a290fe87d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/U-bracket-1_0.asset using Guid(37248c879d65a2149ae2b3a290fe87d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a638d016c35c2630b49a42242748968') in 0.029310 seconds
+  Import took 0.033752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.634893 seconds.
+  path: Assets/URDF/meshes/wrist support-right_0.asset
+  artifactKey: Guid(17fe36bde4a06c645b497ebeabf97390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/meshes/wrist support-right_0.asset using Guid(17fe36bde4a06c645b497ebeabf97390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0007a60274f508866ecbf81c64fad65c') in 0.021556 seconds
+  Import took 0.025532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.014589 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes
+  artifactKey: Guid(ed8c5031dbc001b41a4cb20bc0741a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes using Guid(ed8c5031dbc001b41a4cb20bc0741a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b968e592a22e9cf1b704aa49b61e98b') in 0.013935 seconds
+  Import took 0.017416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052988 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_0.dae
+  artifactKey: Guid(34bc87dd1b613d44e974caa7d9bd5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_0.dae using Guid(34bc87dd1b613d44e974caa7d9bd5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb37f331d8d9acbfeaad3b51249203a') in 0.028095 seconds
+  Import took 0.032205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_4.dae
+  artifactKey: Guid(24628c14ca8b22546a6d3fa6ab4c574c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_4.dae using Guid(24628c14ca8b22546a6d3fa6ab4c574c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ccdd745b293abec36350ee3d9b2592a') in 0.034015 seconds
+  Import took 0.037072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_14.dae
+  artifactKey: Guid(64e90b6e5a2d9e249b6cd5fa723bb6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_14.dae using Guid(64e90b6e5a2d9e249b6cd5fa723bb6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db683cb17ce1576d1b2e452f8aeb6875') in 0.032854 seconds
+  Import took 0.036921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_13.dae
+  artifactKey: Guid(b96e112c713cdaa4eb768ef853b056d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_13.dae using Guid(b96e112c713cdaa4eb768ef853b056d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2394dd2ecbb684fa75315d7bea8b6980') in 0.032658 seconds
+  Import took 0.037305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_3.dae
+  artifactKey: Guid(62bb85836e0cde44ba64dd7b81204b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_3.dae using Guid(62bb85836e0cde44ba64dd7b81204b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f46aa1b1e19df67066b02726ec7f36a') in 0.034306 seconds
+  Import took 0.038752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_12.dae
+  artifactKey: Guid(2fa2af81db9b36f498c6a53548198e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_12.dae using Guid(2fa2af81db9b36f498c6a53548198e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e0d533aa2693f63b67e2b194f9df276') in 0.030613 seconds
+  Import took 0.037816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_21.dae
+  artifactKey: Guid(5af795eab7b9c0d46bdaec2c62bbeade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_21.dae using Guid(5af795eab7b9c0d46bdaec2c62bbeade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c397e800f0fab437fc85e33d063cf8a') in 0.034763 seconds
+  Import took 0.039032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_16.dae
+  artifactKey: Guid(dacdac0139dce8449afa77d5819a804b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_16.dae using Guid(dacdac0139dce8449afa77d5819a804b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '006bbc081ead55b8d3782b511ce666bd') in 0.031826 seconds
+  Import took 0.037043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_2.dae
+  artifactKey: Guid(c3e5f228bc7d3364b9456fef6e37d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_2.dae using Guid(c3e5f228bc7d3364b9456fef6e37d1fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7644699eb5c48d511495efceec34296e') in 0.032827 seconds
+  Import took 0.037328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_6.dae
+  artifactKey: Guid(a1162ab65423de84283f8b23463766cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_6.dae using Guid(a1162ab65423de84283f8b23463766cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d50d33ff1a413465c934b23c7545e8') in 0.031393 seconds
+  Import took 0.035138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_17.dae
+  artifactKey: Guid(05e67bb1b09029d4d9c390125c223f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_17.dae using Guid(05e67bb1b09029d4d9c390125c223f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20959c1d9ec5a06fa5741c3ee2d70c1f') in 0.035337 seconds
+  Import took 0.041016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_9.dae
+  artifactKey: Guid(892595c92a001794980acbf74fb40679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_9.dae using Guid(892595c92a001794980acbf74fb40679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8c1dc8324611e1830d81c845e37257') in 0.031009 seconds
+  Import took 0.036367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_8.dae
+  artifactKey: Guid(24661ad0458b24e4a873697aac6e26fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_8.dae using Guid(24661ad0458b24e4a873697aac6e26fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b1b4b6e06b19b4068ae4fe81e4e82a') in 0.030174 seconds
+  Import took 0.034295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_1.dae
+  artifactKey: Guid(60d280ee12e27ed439824e84ed74b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_1.dae using Guid(60d280ee12e27ed439824e84ed74b6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0de5db3ce176d9f2239d874ec0b06a') in 0.036777 seconds
+  Import took 0.041245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_11.dae
+  artifactKey: Guid(b9a6d7a4542253d45a0582affecaa270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_11.dae using Guid(b9a6d7a4542253d45a0582affecaa270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3061af80266a7ce952f25b801bdf8590') in 0.033623 seconds
+  Import took 0.037811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_7.dae
+  artifactKey: Guid(098f63bb9d679ee4f98254c3926b20a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_7.dae using Guid(098f63bb9d679ee4f98254c3926b20a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec0bdd485c5b50c83793dc21de0efa0') in 0.036106 seconds
+  Import took 0.041598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_18.dae
+  artifactKey: Guid(8cd21ee8011010a4eb60c64f9ba30129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_18.dae using Guid(8cd21ee8011010a4eb60c64f9ba30129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19289f59c580aa7ba9425c0f4682cec0') in 0.031666 seconds
+  Import took 0.037403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_22.dae
+  artifactKey: Guid(3e8edfa0f5181bb4ea64d7dddcddc463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_22.dae using Guid(3e8edfa0f5181bb4ea64d7dddcddc463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1416bba287ebc21320450ab2ca7de0d') in 0.037630 seconds
+  Import took 0.041460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_19.dae
+  artifactKey: Guid(a70b4e2d78b1060408ea5cdc06b6416e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_19.dae using Guid(a70b4e2d78b1060408ea5cdc06b6416e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12613b543b550c020c419c43f9e43de9') in 0.036085 seconds
+  Import took 0.040929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.158621 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_23.dae
+  artifactKey: Guid(b38f53f5c5e69344aa063fa0ceeb2818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_0_23.dae using Guid(b38f53f5c5e69344aa063fa0ceeb2818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dddc74ca1c8c035ae214b5022744928') in 0.023617 seconds
+  Import took 0.027057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_0.dae
+  artifactKey: Guid(5e2ef711042c43f4cb167cb23866a341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_0.dae using Guid(5e2ef711042c43f4cb167cb23866a341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb8248d969bc4528aec73646f88351c') in 0.032113 seconds
+  Import took 0.036345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_2.dae
+  artifactKey: Guid(40b7458dcefabc6439533bc45fc9422c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_2.dae using Guid(40b7458dcefabc6439533bc45fc9422c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42833c609abc005100eeec7e00a7f409') in 0.035127 seconds
+  Import took 0.038474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_1.dae
+  artifactKey: Guid(910c9aa3ed87dc542ba072ebc8a1fe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_1.dae using Guid(910c9aa3ed87dc542ba072ebc8a1fe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f111e597d04f6b09f2b1cae628cba762') in 0.031770 seconds
+  Import took 0.036217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396384 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_3.dae
+  artifactKey: Guid(70be4256c6f919c4291eb5efa70b9815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_3.dae using Guid(70be4256c6f919c4291eb5efa70b9815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09027a50e8eb5bd0c0727d6fb7912437') in 0.023187 seconds
+  Import took 0.026949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_4.dae
+  artifactKey: Guid(9a0f34dff68bd2f4b9c54d254c7ecd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_4.dae using Guid(9a0f34dff68bd2f4b9c54d254c7ecd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01cb7bdac762bd89fb1b03535e5cbb9a') in 0.031525 seconds
+  Import took 0.034903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_8.dae
+  artifactKey: Guid(311f9863e32b121468c131325a61add0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_8.dae using Guid(311f9863e32b121468c131325a61add0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4585e46c4295ef2de854a7175ef33e8') in 0.032793 seconds
+  Import took 0.037159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_13.dae
+  artifactKey: Guid(2c357a24548249749be4a547bd3d8378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_13.dae using Guid(2c357a24548249749be4a547bd3d8378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a64b5dfd2ce28d9327bdc7af075cbfd5') in 0.032772 seconds
+  Import took 0.037115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_11.dae
+  artifactKey: Guid(baccdc10bdbf2d54092c4a221bca54d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_11.dae using Guid(baccdc10bdbf2d54092c4a221bca54d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845d0e9b60f8eed91dc5cc236e82c643') in 0.030495 seconds
+  Import took 0.035395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_6.dae
+  artifactKey: Guid(3b39b1ccf6f4b2b4f975eb5601ac9273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_6.dae using Guid(3b39b1ccf6f4b2b4f975eb5601ac9273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab951dd0f403728eb561e6da9ed222bb') in 0.034682 seconds
+  Import took 0.040237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_9.dae
+  artifactKey: Guid(5e21f44184114244f9b20bf1c70a6a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_9.dae using Guid(5e21f44184114244f9b20bf1c70a6a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0246bf256fb5786a87650a775bd0d6d0') in 0.036443 seconds
+  Import took 0.041796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_12.dae
+  artifactKey: Guid(5043d19446664de46a0d0d4fabd54930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_12.dae using Guid(5043d19446664de46a0d0d4fabd54930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de002895b478dbf91d70d4d2d390c9fd') in 0.029399 seconds
+  Import took 0.033072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_14.dae
+  artifactKey: Guid(e42cc17859e216940a984e729988c7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_14.dae using Guid(e42cc17859e216940a984e729988c7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b36f23ef3722508a8dc2adc863766c') in 0.030636 seconds
+  Import took 0.035008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_17.dae
+  artifactKey: Guid(030e2f6b1a8c21b419cedc22884e7756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_17.dae using Guid(030e2f6b1a8c21b419cedc22884e7756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905183f9eb4a35e9bdbe1455ee58650f') in 0.031725 seconds
+  Import took 0.036071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_18.dae
+  artifactKey: Guid(945cf4d00221ea7498e069e96a606f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_18.dae using Guid(945cf4d00221ea7498e069e96a606f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ddf3ccb999b65020026f4356dbe141') in 0.030494 seconds
+  Import took 0.034233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_23.dae
+  artifactKey: Guid(f5c11d81540a5b7439def2d7e2767eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_23.dae using Guid(f5c11d81540a5b7439def2d7e2767eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7182c57c73149c79d47e032bc2d64707') in 0.032968 seconds
+  Import took 0.037414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_21.dae
+  artifactKey: Guid(9f485815d2ccb324dbcd5703c24439d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_21.dae using Guid(9f485815d2ccb324dbcd5703c24439d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8011222c516001a18c2f9d0bb76901af') in 0.033668 seconds
+  Import took 0.038129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_22.dae
+  artifactKey: Guid(bd13a36f7afbca245af0b4d533a7bde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_22.dae using Guid(bd13a36f7afbca245af0b4d533a7bde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e59aeaabcda7658283dc4f6abd887e') in 0.040845 seconds
+  Import took 0.046567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_19.dae
+  artifactKey: Guid(9b67724ac39ded348aa827fae47fbd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_19.dae using Guid(9b67724ac39ded348aa827fae47fbd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a18e6fdc9bda85c04da5ab7dc40a6c') in 0.035708 seconds
+  Import took 0.039667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_7.dae
+  artifactKey: Guid(d10656d027c23bc479b9cd38e05b4892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_7.dae using Guid(d10656d027c23bc479b9cd38e05b4892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b52222916fc965edf4b2a63eac623138') in 0.063326 seconds
+  Import took 0.066765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_16.dae
+  artifactKey: Guid(fbad87e99a64d534aba796f8b8cbb16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URDF/asr_cyberglove_visualization/meshes/bone_1_16.dae using Guid(fbad87e99a64d534aba796f8b8cbb16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edd5d74b78ae718970335fc889df9a4') in 0.032484 seconds
+  Import took 0.036412 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001507 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.463 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2028.
+Total: 3.229900 ms (FindLiveObjects: 0.319600 ms CreateObjectMapping: 0.111300 ms MarkObjects: 2.651500 ms  DeleteObjects: 0.145000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001062 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2031.
+Total: 2.509900 ms (FindLiveObjects: 0.336400 ms CreateObjectMapping: 0.111200 ms MarkObjects: 1.943900 ms  DeleteObjects: 0.116600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1468 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2034.
+Total: 2.606700 ms (FindLiveObjects: 0.304600 ms CreateObjectMapping: 0.104500 ms MarkObjects: 2.110200 ms  DeleteObjects: 0.085800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009022 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.355 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2081.
+Total: 2.691600 ms (FindLiveObjects: 0.418000 ms CreateObjectMapping: 0.066700 ms MarkObjects: 2.085700 ms  DeleteObjects: 0.119200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1487 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2084.
+Total: 2.297500 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.063000 ms MarkObjects: 1.905900 ms  DeleteObjects: 0.114200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
